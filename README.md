@@ -1,7 +1,9 @@
 # Lemonade_pbl
 
 deployed on the heroku app : Live
-https://lemonadearunkumar.herokuapp.com/
+http://admingg.pythonanywhere.com/
+Backend is working fine 
+Loading the static file (css js, HTML) crashed recently still working on it.
 
 
 
