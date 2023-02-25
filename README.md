@@ -1,6 +1,6 @@
 # Lemonade_pbl
 
-deployed on the heroku app : Live
+ earlier deployed on the heroku app  now in pythonanywhere: Live
 http://admingg.pythonanywhere.com/
 Backend is working fine 
 Loading the static file (css js, HTML) crashed recently still working on it.
